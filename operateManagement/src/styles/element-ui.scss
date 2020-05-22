@@ -1,0 +1,17 @@
+// 覆盖element 默认样式
+
+.el-breadcrumb__inner, .el-breadcrumb__inner a{
+  font-weight: 400!important;
+}
+
+.el-tree {
+  background: none;
+}
+
+.el-tree-node__content {
+  height: 38px;
+}
+
+.el-tree-node:focus > .el-tree-node__content {
+  background-color: rgba(#409EFF, 0.2);
+}
