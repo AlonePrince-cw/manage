@@ -35,7 +35,7 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ueditor": "^1.2.3",
     "vue-template-compiler": "^2.6.10",
     "vue-ueditor-wrap": "^2.4.1"
