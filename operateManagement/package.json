@@ -18,7 +18,7 @@
     "moment": "^2.24.0",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
-    "qs": "^6.8.0",
+    "qs": "^6.8.3",
     "sass": "^1.22.10",
     "sass-loader": "^8.0.0",
     "v-distpicker": "^1.2.1",
